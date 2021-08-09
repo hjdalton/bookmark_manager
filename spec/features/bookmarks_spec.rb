@@ -4,3 +4,5 @@ feature 'bookmark test' do
     expect(page).to have_content "Bookmark"
   end
 end
+
+

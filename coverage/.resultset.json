@@ -23,12 +23,36 @@
           null
         ]
       },
-      "/Users/heatherdalton/Makers Projects/Bookmarks/spec/features/bookmark_spec.rb": {
+      "/Users/heatherdalton/Makers Projects/Bookmarks/spec/features/bookmarks_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heatherdalton/Makers Projects/Bookmarks/spec/features/class_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heatherdalton/Makers Projects/Bookmarks/lib/class.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -44,6 +68,6 @@
         ]
       }
     },
-    "timestamp": 1628520229
+    "timestamp": 1628521027
   }
 }
