@@ -16,6 +16,20 @@
           null,
           null,
           1,
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/heatherdalton/Makers Projects/Bookmarks/spec/features/bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -30,6 +44,6 @@
         ]
       }
     },
-    "timestamp": 1628519831
+    "timestamp": 1628520229
   }
 }
