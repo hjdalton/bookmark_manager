@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/heatherdalton/makers_projects/Bookmarks/app.rb": {
+      "/Users/Student/Projects/Bookmarks/app.rb": {
         "lines": [
           1,
           1,
@@ -17,6 +17,15 @@
           null,
           null,
           1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           1,
           null,
@@ -25,11 +34,22 @@
           null
         ]
       },
-      "/Users/heatherdalton/makers_projects/Bookmarks/lib/bookmark.rb": {
+      "/Users/Student/Projects/Bookmarks/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
+          null,
+          1,
+          4,
+          4,
+          null,
+          0,
+          null,
+          null,
+          4,
+          12,
+          null,
           null,
           1,
           2,
@@ -39,13 +59,35 @@
           null,
           null,
           2,
-          8,
           null,
           null,
           null
         ]
       },
-      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/bookmark_spec.rb": {
+      "/Users/Student/Projects/Bookmarks/spec/features/index_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/Student/Projects/Bookmarks/spec/features/new_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/Student/Projects/Bookmarks/spec/features/unit/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -65,20 +107,18 @@
           1,
           null,
           null,
-          null
-        ]
-      },
-      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/index_spec.rb": {
-        "lines": [
-          1,
+          null,
           1,
           1,
           1,
           null,
+          1,
+          null,
+          null,
           null
         ]
       },
-      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/Student/Projects/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -100,6 +140,6 @@
         ]
       }
     },
-    "timestamp": 1628605560
+    "timestamp": 1628610474
   }
 }
