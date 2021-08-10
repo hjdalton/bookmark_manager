@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Student/Projects/Bookmarks/app.rb": {
+      "/Users/heatherdalton/makers_projects/Bookmarks/app.rb": {
         "lines": [
           1,
           1,
@@ -25,7 +25,7 @@
           null
         ]
       },
-      "/Users/Student/Projects/Bookmarks/lib/class.rb": {
+      "/Users/heatherdalton/makers_projects/Bookmarks/lib/bookmark.rb": {
         "lines": [
           1,
           null,
@@ -33,6 +33,11 @@
           null,
           1,
           2,
+          2,
+          null,
+          0,
+          null,
+          null,
           2,
           8,
           null,
@@ -40,28 +45,19 @@
           null
         ]
       },
-      "/Users/Student/Projects/Bookmarks/spec/features/bookmarks_spec.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/Student/Projects/Bookmarks/spec/features/class_spec.rb": {
+      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/bookmark_spec.rb": {
         "lines": [
           1,
           null,
           1,
           1,
           1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           1,
@@ -72,17 +68,38 @@
           null
         ]
       },
-      "/Users/Student/Projects/Bookmarks/spec/features/index_spec.rb": {
+      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/index_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/heatherdalton/makers_projects/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1628524834
+    "timestamp": 1628605560
   }
 }
