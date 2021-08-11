@@ -6,7 +6,7 @@ describe Bookmarks do
     it 'returns a list of bookmarks' do
       connection = PG.connect(dbname: 'bookmark_manager_test')
 
-      bookmark = Bookmarks.create(url: "http://www.makersacademy.com", title: "Makers Academy").first
+      bookmark = Bookmarks.create(url: "http://www.makersacademy.com", title: "Makers Academy")
       Bookmarks.create(url: "http://www.destroyallsoftware.com", title: "Destroy All Software")
       Bookmarks.create(url: "http://www.google.com", title: "Google")
 
